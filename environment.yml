@@ -1,0 +1,8 @@
+name: mxg_litter
+channels:
+  - conda-forge
+  - base
+  - R
+dependencies:
+  - r-base=4.3.3
+  - r-tidyverse=2.0.0
